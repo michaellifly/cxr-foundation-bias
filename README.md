@@ -1,5 +1,5 @@
 # Risk of Bias in Chest Radiography Deep Learning Foundation Models
-
+https://healthmanagement.org/c/imaging/news/addressing-bias-in-chest-radiography-deep-learning-foundation-models
 This repository contains the code for the paper
 > Ben Glocker, Charles Jones, Mélanie Roschewitz, Stefan Winzeck  
 > [**Risk of Bias in Chest Radiography Deep Learning Foundation Models**](https://pubs.rsna.org/doi/10.1148/ryai.230060)  
